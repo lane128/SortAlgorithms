@@ -3,6 +3,8 @@ SortAlgorithms
 
 SortAlgorithms with Python presentation
 
-1.Bubble Sorted
+1.Bubble Sort
+####
+2.Cocktail Sort(Double Bubble)
 ####
 
