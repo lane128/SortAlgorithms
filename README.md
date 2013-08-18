@@ -7,4 +7,6 @@ SortAlgorithms with Python presentation
 ####
 2.Cocktail Sort(Double Bubble)
 ####
+3.Insertion Sort
+####
 
