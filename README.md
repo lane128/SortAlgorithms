@@ -9,4 +9,6 @@ SortAlgorithms with Python presentation
 ####
 3.Insertion Sort
 ####
+4.Selection Sort
+####
 
