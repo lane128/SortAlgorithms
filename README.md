@@ -11,4 +11,6 @@ SortAlgorithms with Python presentation
 ####
 4.Selection Sort
 ####
+5.Quick Sort
+####
 
